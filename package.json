@@ -1,0 +1,16 @@
+{
+  "name": "node-hangman",
+  "version": "1.0.0",
+  "description": "Hangman on Node!",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Griffin Gaeth",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "inquirer": "^5.2.0",
+    "npm": "^5.8.0"
+  }
+}
